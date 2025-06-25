@@ -1,1 +1,1 @@
-# Commit-Counter-
+# Commit Counter
